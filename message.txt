@@ -1,0 +1,113 @@
+2024-06-10 17:33:01 stdClass Object
+(
+    [group_id] => 226121937
+    [type] => message_new
+    [event_id] => b4c542a2177982f67e42c3d785295b0706311aab
+    [v] => 5.199
+    [object] => stdClass Object
+        (
+            [message] => stdClass Object
+                (
+                    [date] => 1718040780
+                    [from_id] => 405995381
+                    [id] => 2
+                    [out] => 0
+                    [version] => 10000005
+                    [attachments] => Array
+                        (
+                        )
+
+                    [conversation_message_id] => 2
+                    [fwd_messages] => Array
+                        (
+                        )
+
+                    [important] => 
+                    [is_hidden] => 
+                    [peer_id] => 405995381
+                    [random_id] => 0
+                    [text] => Тест
+                )
+
+            [client_info] => stdClass Object
+                (
+                    [button_actions] => Array
+                        (
+                            [0] => text
+                            [1] => vkpay
+                            [2] => open_app
+                            [3] => location
+                            [4] => open_link
+                            [5] => callback
+                            [6] => intent_subscribe
+                            [7] => intent_unsubscribe
+                        )
+
+                    [keyboard] => 1
+                    [inline_keyboard] => 1
+                    [carousel] => 1
+                    [lang_id] => 0
+                )
+
+        )
+
+)
+
+2024-06-10 17:35:53 stdClass Object
+(
+    [group_id] => 226121937
+    [type] => message_new
+    [event_id] => bda0c5f78c6f57cd73630265d853c8a53caa14e8
+    [v] => 5.199
+    [object] => stdClass Object
+        (
+            [message] => stdClass Object
+                (
+                    [date] => 1718040952
+                    [from_id] => 405995381
+                    [id] => 3
+                    [out] => 0
+                    [version] => 10000006
+                    [attachments] => Array
+                        (
+                        )
+
+                    [conversation_message_id] => 3
+                    [fwd_messages] => Array
+                        (
+                        )
+
+                    [important] => 
+                    [is_hidden] => 
+                    [peer_id] => 405995381
+                    [random_id] => 0
+                    [text] => тест
+                )
+
+            [client_info] => stdClass Object
+                (
+                    [button_actions] => Array
+                        (
+                            [0] => text
+                            [1] => vkpay
+                            [2] => open_app
+                            [3] => location
+                            [4] => open_link
+                            [5] => callback
+                            [6] => intent_subscribe
+                            [7] => intent_unsubscribe
+                        )
+
+                    [keyboard] => 1
+                    [inline_keyboard] => 1
+                    [carousel] => 1
+                    [lang_id] => 0
+                )
+
+        )
+
+)
+
+2024-06-10 17:35:53 405995381
+2024-06-10 17:37:42 
+2024-06-10 17:43:30 
